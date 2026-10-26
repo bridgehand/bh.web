@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-test/
+demo-audit.log
+.claude/
+session.json
+demo.cast
+pages/
